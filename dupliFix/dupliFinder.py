@@ -3,7 +3,7 @@ import hashlib
 import shutil
 from pathlib import Path
 
-SOURCE_FOLDER = r"C:\Users\salla\OneDrive\Documents\dupliFix\source"
+SOURCE_FOLDER = r"[YOUR_SOURCE_FOLDEDR]"
 OUTPUT_FOLDER = "sorted_files"
 
 ORIGINALS_FOLDER = Path(OUTPUT_FOLDER) / "originals"
